@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "2649ff164a5e6809",
+    "type": "split",
+    "children": [
+      {
+        "id": "d09ab31019f85f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c845138b12be417",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Вложения/Sivuhin-DV-Obschii-kurs-fiziki-Tom-3-Elektrichestvo.pdf",
+                "page": 3,
+                "left": -74,
+                "top": 448,
+                "zoom": 2.1
+              },
+              "icon": "lucide-file-text",
+              "title": "Sivuhin-DV-Obschii-kurs-fiziki-Tom-3-Elektrichestvo"
+            }
+          },
+          {
+            "id": "32a5bf9e3068c930",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3d9a332630bd2af0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Вложения/Kozel-SM-Sbornik-zadach-po-obschemu-kursu-fiziki-Chast-2-Elektrichestvo-i-magnetizm-Optika.pdf",
+                "page": 4,
+                "left": -39,
+                "top": 470,
+                "zoom": 1.9296740994854202
+              },
+              "icon": "lucide-file-text",
+              "title": "Kozel-SM-Sbornik-zadach-po-obschemu-kursu-fiziki-Chast-2-Elektrichestvo-i-magnetizm-Optika"
+            }
+          },
+          {
+            "id": "6149a18a940de64d",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Вложения/2курс_ИВТф_Осень_2025-26.pdf",
+                "page": 24,
+                "left": -7,
+                "top": 329,
+                "zoom": 2.03804347826087
+              },
+              "icon": "lucide-file-text",
+              "title": "2курс_ИВТф_Осень_2025-26"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f35e8f314aea3c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5711e3abebd2ac7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc95fd025bac451",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "385526ff205cde9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3acfd46ddfb6599",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8025187892eba88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "94cb267dcb3f65e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56e13d8461b76de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "74500f4fa385cdbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Учеба/Лабы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лабы"
+            }
+          },
+          {
+            "id": "390a365fdb6b634d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d96e870db862943e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Учеба/Лабы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лабы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "remotely-save:Remotely Save": false,
+      "protected-note:Block Obsidian": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "ffc95fd025bac451",
+  "lastOpenFiles": [
+    "Текстовый документ.txt",
+    "Корзина.md",
+    "Учеба/Лабы.md",
+    "Учеба/Записи лекций, семинаров.md",
+    "Обещания.md",
+    "Учеба/Учебники.md",
+    "Вложения/2курс_ИВТф_Осень_2025-26.pdf",
+    "Вложения/Filippov-AF-Sbornik-zadach-po-differentsialnym-uravneniyam.pdf",
+    "Вложения/Kozel-SM-Sbornik-zadach-po-obschemu-kursu-fiziki-Chast-2-Elektrichestvo-i-magnetizm-Optika.pdf",
+    "Вложения/Romanko-VK-Sbornik-zadach-po-differentsialnym-uravneniyam-i-variatsionnomu-ischisleniyu.pdf",
+    "Вложения/Koryavov-VP-Metody-resheniya-zadach-v-obschem-kurse-fiziki-Elektrichestvo-i-magnetizm.pdf",
+    "Вложения/Sbornik_zadach_po_matematicheskomu_analizu_Tom_3_2003_Kudryavtsev.pdf",
+    "Учеба/Расписание.md",
+    "Учеба/Готовка.md",
+    "Вложения/Sivuhin-DV-Obschii-kurs-fiziki-Tom-3-Elektrichestvo.pdf",
+    "Учеба/Untitled",
+    "Вложения/ticket (1).pdf",
+    "Вложения/IMG_20250903_090730_436.jpg",
+    "Вложения",
+    "Темы.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "d.md"
+  ]
+}
